@@ -22,6 +22,8 @@ data memory stores both the static data segment and the stack segment.
 10. You need to generate the required signals from the ALU to calculate the condition branch outcome
 (taken/ not taken). These signals might include zero, carry, overflow, etc.
 ## C. Instruction Types and Formats:
+### 1. R-Type (Register Type): 
+
 
 
 
