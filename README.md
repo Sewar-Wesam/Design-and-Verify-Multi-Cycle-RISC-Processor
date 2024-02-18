@@ -46,7 +46,7 @@ This type includes the following instruction formats. The opcode is used to dist
 **for ret, it has the following format:** 
 6 bit opcode 
 26 bit unused  
-### 3. S-Type (Stack):
+### 4. S-Type (Stack):
 6 bit opcode 
 4 bit for the Rd register 
 22 bit unused  
