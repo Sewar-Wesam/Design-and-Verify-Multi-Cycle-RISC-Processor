@@ -50,6 +50,8 @@ This type includes the following instruction formats. The opcode is used to dist
 6 bit opcode 
 4 bit for the Rd register 
 22 bit unused  
+## D. Data Path: 
+![image](https://github.com/Sewar-Wesam/Design-and-Verify-Multi-Cycle-RISC-Processor/assets/113128739/58f05a54-29e8-4b6c-81b0-321cf4259110)
 
 
 
