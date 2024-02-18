@@ -37,7 +37,21 @@ data memory stores both the static data segment and the stack segment.
 
 16-bit immediate: unsigned for logic instructions, and signed otherwise.
 
-2-bit unused
+2-bit unused 
+### 3. J-Type (Jump Type) 
+This type includes the following instruction formats. The opcode is used to distinguish each instruction
+**for JMP and CALL , they have the following format:**
+6 bit opcode 
+26 bit jump offset
+**for ret, it has the following format:** 
+6 bit opcode 
+26 bit unused  
+### 3. S-Type (Stack):
+6 bit opcode 
+4 bit for the Rd register 
+22 bit unused  
+
+
 
 
 
