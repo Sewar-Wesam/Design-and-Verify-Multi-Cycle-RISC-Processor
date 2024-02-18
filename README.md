@@ -23,7 +23,7 @@ data memory stores both the static data segment and the stack segment.
 (taken/ not taken). These signals might include zero, carry, overflow, etc.
 ## C. Instruction Types and Formats:
 #### 1. R-Type (Register Type): 
- ** 4-bit Rd: destination register **
+ **4-bit Rd: destination register**
  4-bit Rs1: first source register
  4-bit Rs2: second source register
  14-bit unused
